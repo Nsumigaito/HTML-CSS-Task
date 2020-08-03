@@ -94,21 +94,3 @@ footer{
 		background-position:0px 275px;
 	}
 }
-
-@media screen and (max-width:425px){
-
-	main{
-		width:100%;
-		padding-left:5%;
-		padding-right:5%;
-	}
-
-	.main-box{
-		width:100%;
-		margin-bottom:20px;
-	}
-
-	.main-box:last-child{
-		margin-bottom:0;
-	}
-}
